@@ -96,3 +96,8 @@ footer {
 img {
 	margin: 40px 8px 0 8px;
 }
+
+button {
+	padding: 8px;
+	margin: 40px;
+}
